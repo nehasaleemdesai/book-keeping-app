@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-keeping-app/static/css/main.5aedbf2e.css",
+    "main.js": "/book-keeping-app/static/js/main.6048ecc3.js",
+    "index.html": "/book-keeping-app/index.html",
+    "main.5aedbf2e.css.map": "/book-keeping-app/static/css/main.5aedbf2e.css.map",
+    "main.6048ecc3.js.map": "/book-keeping-app/static/js/main.6048ecc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aedbf2e.css",
+    "static/js/main.6048ecc3.js"
+  ]
+}
